@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=undeadalien&label=Profile%20views&color=0e75b6&style=flat" alt="undeadalien" /> 
 </p>
 
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=undeadalien&show_icons=true&locale=en" alt="undeadalien" />
+</p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/UndeadAlien](https://github.com/UndeadAlien)
 
 - 📫 How to reach me **workhutchc@gmail.com**
@@ -72,8 +76,4 @@
   <a href="https://redux.js.org" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=undeadalien&show_icons=true&locale=en" alt="undeadalien" />
 </p>
