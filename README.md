@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Connor Hutchinson</h1>
-<h3 align="center">A passionate software developer from Chicago, IL</h3>
+<h3 align="center">A passionate software developer from Tampa, FL</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=undeadalien&label=Profile%20views&color=0e75b6&style=flat" alt="undeadalien" /> 
